@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+    <img alt="Pairo logo" src="https://www.flaticon.com/svg/vstatic/svg/2289/2289661.svg?token=exp=1612943073~hmac=8a19b4e56bd3c02a4eac33968b81f3c8">
+    <HelloWorld msg="Welcome to Pair-o"/>
   </div>
 </template>
 
